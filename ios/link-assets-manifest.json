@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Bold.otf",
+      "sha1": "badaa5a51cf196e712c1cc45f7551aaa574a8714"
+    },
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Light.otf",
+      "sha1": "3ab032d6a1f809ac4117e7f82cad1606f4ac581b"
+    },
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Medium.otf",
+      "sha1": "c893d543f2be98eba84fe1cae164c20a5442fb35"
+    },
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Regular.otf",
+      "sha1": "6738d80638f0020962e0e5807e861dc103866969"
+    },
+    {
+      "path": "src/assets/images/gif/emptyTodos.gif",
+      "sha1": "f0d55710392cfa652dfc851333b417add1667861"
+    },
+    {
+      "path": "src/assets/images/gif/todos.gif",
+      "sha1": "9e7e4abda62422a92a20c324942f2ba148ad8841"
+    },
+    {
+      "path": "src/assets/images/png/todos.png",
+      "sha1": "c3ef24f6f15b6b6a4c67ec7b6b5cc0a0f4a0d7ce"
+    },
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Bold.otf",
+      "sha1": "badaa5a51cf196e712c1cc45f7551aaa574a8714"
+    },
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Light.otf",
+      "sha1": "3ab032d6a1f809ac4117e7f82cad1606f4ac581b"
+    },
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Medium.otf",
+      "sha1": "c893d543f2be98eba84fe1cae164c20a5442fb35"
+    },
+    {
+      "path": "src/assets/fonts/ConfigFonts/ConfigRounded-Regular.otf",
+      "sha1": "6738d80638f0020962e0e5807e861dc103866969"
+    }
+  ]
+}

@@ -18,6 +18,9 @@
 		4A02107E2A018624001D802D /* ConfigRounded-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 4A02107A2A018624001D802D /* ConfigRounded-Regular.otf */; };
 		7699B88040F8A987B510C191 /* libPods-Todo-TodoTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-Todo-TodoTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		302B5308DC6143EAB9D17B84 /* emptyTodos.gif in Resources */ = {isa = PBXBuildFile; fileRef = 67E7860F848046A297A75EAA /* emptyTodos.gif */; };
+		B57EF6CA006645678D8B873E /* todos.gif in Resources */ = {isa = PBXBuildFile; fileRef = F21B95B3471B41AE96975497 /* todos.gif */; };
+		69FAB55BE2F64BB688B89F34 /* todos.png in Resources */ = {isa = PBXBuildFile; fileRef = 37AA5BD63D884295BDD14D1C /* todos.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +55,9 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Todo/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-Todo-TodoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Todo-TodoTests.release.xcconfig"; path = "Target Support Files/Pods-Todo-TodoTests/Pods-Todo-TodoTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		67E7860F848046A297A75EAA /* emptyTodos.gif */ = {isa = PBXFileReference; name = "emptyTodos.gif"; path = "../src/assets/images/gif/emptyTodos.gif"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F21B95B3471B41AE96975497 /* todos.gif */ = {isa = PBXFileReference; name = "todos.gif"; path = "../src/assets/images/gif/todos.gif"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		37AA5BD63D884295BDD14D1C /* todos.png */ = {isa = PBXFileReference; name = "todos.png"; path = "../src/assets/images/png/todos.png"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +140,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				ED8EA64597204BD697F6A66E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -159,6 +166,17 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		ED8EA64597204BD697F6A66E /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				67E7860F848046A297A75EAA /* emptyTodos.gif */,
+				F21B95B3471B41AE96975497 /* todos.gif */,
+				37AA5BD63D884295BDD14D1C /* todos.png */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -260,6 +278,9 @@
 				4A02107E2A018624001D802D /* ConfigRounded-Regular.otf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				302B5308DC6143EAB9D17B84 /* emptyTodos.gif in Resources */,
+				B57EF6CA006645678D8B873E /* todos.gif in Resources */,
+				69FAB55BE2F64BB688B89F34 /* todos.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
