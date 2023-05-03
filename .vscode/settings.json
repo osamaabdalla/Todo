@@ -1,0 +1,9 @@
+{
+    "colorize.languages": [
+        "javascriptreact",
+        "typescript",
+        "javascript",
+        "scss",
+        "css",
+    ],
+}
