@@ -1,28 +1,39 @@
-## React Native Assignment: Todo App
+## React Native Todo App
 
 ### App run instructions
 
-using yarn:
+### using yarn: (npm v16.18.1)
 
-1-
+1- installing the dependencies
 ```
 yarn
 ```
 
-2-
+2- install ios pods
 ```
 npx pod-install
 ```
 
-3- for IOS
+3- runing on IOS simulator
 ```
 yarn ios
 ```
 
-3- for Android
+3- runing on Android emulator
 ```
 yarn android
 ```
+
+### using yarn: (npm v16.18.1)
+
+3- code func test using jest (only functions for now)
+```
+yarn jest
+```
+after running the test a full report will be inside coverage/lcov-report folder as:
+
+![lcov-report](https://github.com/osamaabdalla/Todo/blob/main/lcov-report.png?raw=true)
+
 
 **Application structure**
 
